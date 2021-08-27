@@ -1,0 +1,6 @@
+*.d
+*.o
+*.crf
+MDK-ARM/STM32F4-Echo/
+*.MrCrazy
+*.dbgconf
