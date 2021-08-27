@@ -4,3 +4,6 @@
 MDK-ARM/STM32F4-Echo/
 *.MrCrazy
 *.dbgconf
+MDK-ARM/EventRecorderStub.scvd
+MDK-ARM/JLinkLog.txt
+MDK-ARM/JLinkSettings.ini
